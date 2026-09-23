@@ -50,5 +50,5 @@ The analysis covers 10 critical tasks including:
 
 ## Author
 
-*Project completed as part of the Herovired Python Program.*
+*Project completed as part of the Herovired Data Scienec Program.*
 
